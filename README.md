@@ -12,7 +12,7 @@
   <tr>
     <td align="center"><a href="https://github.com/kof99athena"><b>kof99athena</b></a></td>
 <td align="center"><a href="https://github.com/incava"><b>incava</b></a></td>
-   <td align="center"><a href="https://github.com/110lily"><b>incava</b></a></td>
+   <td align="center"><a href="https://github.com/110lily"><b>110lily</b></a></td>
   </tr>
   <tr>
     <td align="center">
