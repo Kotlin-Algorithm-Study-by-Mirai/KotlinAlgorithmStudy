@@ -7,10 +7,12 @@
  <tr>
     <td align="center"><a href="https://github.com/kof99athena"><img src="https://avatars.githubusercontent.com/kof99athena" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/incava"><img src="https://avatars.githubusercontent.com/incava" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/110lily"><img src="https://avatars.githubusercontent.com/110lily" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kof99athena"><b>kof99athena</b></a></td>
 <td align="center"><a href="https://github.com/incava"><b>incava</b></a></td>
+   <td align="center"><a href="https://github.com/110lily"><b>incava</b></a></td>
   </tr>
   <tr>
     <td align="center">
@@ -35,6 +37,7 @@
 | 5주차 | 07.28 ~ 08.03 | DFS/BFS |
 | 6주차 | 08.04 ~ 08.10 | DFS/BFS |
 | 7주차 | 08.11 ~ 08.17 | 완전탐색 |
+| 8주차 | 08.18 ~ 08.24 | 완전탐색 |
 
 <br/>
 
